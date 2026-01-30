@@ -1,23 +1,19 @@
-# AI Chatbot Using LLMs
+AI Chatbot usings LLMs.
 
-## 📌 Project Overview
+📌 Project Overview:
 This project is a full-stack AI Chatbot built using Large Language Models (LLMs).  
 It allows users to interact with an AI through a web interface. 
-
-The backend is built using **FastAPI**, the frontend using **Streamlit**, and the AI responses are generated using **Groq LLM APIs**.
-
-
-## 🛠️ Technologies Used
+The backend is built using FastAPI, the frontend using Streamlit, and the AI responses are generated using Groq LLM APIs.
+🛠️ Technologies Used:
 - Python
 - FastAPI (Backend API)
 - Streamlit (Frontend UI)
 - Groq LLM API
 - Git & GitHub
 
-## 📁 Project Structure
-ai_chatbot_project
+📁 Project Structure:
 
-1. backend/
+1. backend
 -main.py
 -requirements.txt
 -.env.example
@@ -26,14 +22,15 @@ ai_chatbot_project
 -requirements.txt
 3. README.md
 
-## How to Run the Project
+How to run the Project:
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
+
 git clone https://github.com/mridul-inturu/ai-chatbot-using-llm.git
 cd ai-chatbot-using-llm
 
 
-### 2️⃣ Backend Setup (FastAPI)
+2️⃣ Backend Setup (FastAPI)
 
 cd backend
 python -m venv venv
@@ -50,16 +47,15 @@ Backend runs at:
 http://127.0.0.1:8000
 
 
-### 3️⃣ Frontend Setup (Streamlit)
+3️⃣ Frontend Setup (Streamlit)
 
-Open a **new terminal**:
+Open a new terminal:
 cd frontend
 pip install -r requirements.txt
 streamlit run app.py
 
-## 📄 Submission Notes
-This project was developed as part of **Project 1 – AI Domain** under Coincent training.
+📄 Submission Notes
+This project was developed as part of Project 1 – AI Domain under Coincent training.
 
 
-## 👤 Author
-**Mridul Inturu**
+👤 Author- Mridul Inturu
