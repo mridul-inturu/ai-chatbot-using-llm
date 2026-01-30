@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project is a full-stack AI Chatbot built using Large Language Models (LLMs).  
-It allows users to interact with an AI through a web interface.
+It allows users to interact with an AI through a web interface. 
 
 The backend is built using **FastAPI**, the frontend using **Streamlit**, and the AI responses are generated using **Groq LLM APIs**.
 
